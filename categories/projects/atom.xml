@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Projects</title>
+    <link rel="self" type="application/atom+xml" href="https://sinon.github.io/categories/projects/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sinon.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-03-27T00:00:00+00:00</updated>
+    <id>https://sinon.github.io/categories/projects/atom.xml</id>
+    <entry xml:lang="en">
+        <title>First post</title>
+        <published>2023-03-27T00:00:00+00:00</published>
+        <updated>2023-03-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sinon.github.io/first/"/>
+        <id>https://sinon.github.io/first/</id>
+        
+        <content type="html" xml:base="https://sinon.github.io/first/">&lt;p&gt;This is my first blog post generated using &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;getzola&#x2F;zola&quot;&gt;Zola&lt;&#x2F;a&gt; and deployed to Github Pages.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
